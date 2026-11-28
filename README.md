@@ -41,3 +41,9 @@
 Photorealistic editorial still life for a neighborhood espresso bar website. Landscape 3:2 photographic print. A thick ivory ceramic cappuccino cup with beautiful rosetta latte art on an ivory saucer in foreground on a dark walnut table, flaky golden croissant on a small cream plate partly cropped along upper left, folded tan newspaper near right edge. High oblique camera angle, tactile surfaces, striking oblique golden morning light and long shadows, rich burnt umber, warm film grain, magazine-quality European coffee culture photograph, no overlay, no graphics, no typography.
 
 </details>
+
+## О проекте
+
+Учебный проект для портфолио. Кофейня «Утро.» вымышленная.
+Сайт создан с помощью Codex в процессе изучения HTML, CSS,
+JavaScript, Git и публикации на Cloudflare Pages.
